@@ -1,0 +1,60 @@
+*{
+    padding: 0%;
+    border: 0;
+    margin: 0%;
+}
+
+body{ 
+	padding-left:11em;
+	font-family:"Trebuchet MS", Verdana, Arial, serif;;
+	color:grey;
+	background-color:rgb(97, 20, 132);}
+    
+  UL.navbar{
+	list-Style-type:none;
+	padding:0;
+	margin:0.5em;
+
+	position:absolute;
+	top:2em;
+	left:1em;
+	width:9em;
+	}
+  h1,h2,h3{
+	font-family:Helvetica,Geneva,Arial,Sunsans-Regular,sans-serif;}
+  UL.navbar li{
+	    background-color:rgb(75, 8, 106);
+		margin:0.5em0;
+		padding:0.5em;
+		border-right:1em solid black;
+		margin-right: 30px;
+		
+		
+		}
+  UL.navbar a{
+		text-decoration:none}
+	a:link{
+		color:black}
+	a:visited{
+		color:black}
+ 
+img{
+    margin-right: 20px;
+
+}
+
+.logo{
+	padding-left: 900px;
+
+}
+#album{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+table{
+	border: 4px solid gray;
+	
+}
+
+
+  
